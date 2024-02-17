@@ -7,7 +7,9 @@
 ## Context
 A simple calculator web application built with HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations and allows users to switch between light and dark modes.
 
-![Calculator App Screenshot](./src/assets/screenshot-1.png)
+![Calculator App Screenshot](https://github.com/Akash-ku-Mallick/Calculator-web/assets/99015782/ca4562f9-1805-47ba-bd7c-ccd90054a2e8)
+
+
 
 
 ### Featues 
